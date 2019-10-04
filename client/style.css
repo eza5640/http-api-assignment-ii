@@ -19,3 +19,8 @@ html, body {
   font-size: 2em;
   text-align: center;
 }
+
+h3{
+  text-align: center;
+  background-color: darkgoldenrod;
+}
